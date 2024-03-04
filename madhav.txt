@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thsu sjwhsuwsh
+=======
+qssxwdeere
+>>>>>>> 2a9d2cd94994f4b6aa251a1110a7c9349aa5f6c1
